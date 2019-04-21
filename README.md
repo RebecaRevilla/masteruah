@@ -8,3 +8,10 @@ Practica Bloque4
 - eval $(ssh-agent -s)
 - ssh-add ~/.ssh/id_rsa
 - clip < ~/.ssh/id_rsa.pub
+## Compañeros de clase:
+|  Nombre    |  Github                  | 
+|------------|--------------------------|
+| compañero1 | [github1](www.google.es) |
+| compañero2 | [github2](www.google.es) |
+| compañero3 | [github3](www.google.es) | 
+
